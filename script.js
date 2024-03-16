@@ -44,10 +44,10 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Sure kana?",
-    "Pokie please",
+    "Pokie pleasee",
     "Don't do this to me :(",
-    "You're breaking my heart Pokie",
-    "Fuck you, jk",
+    "You're breaking mah heart Pokie",
+    "Yiiippppeeee!!! <3",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
